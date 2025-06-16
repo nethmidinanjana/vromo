@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "892247215002",
+    "project_id": "vromo-96cd6",
+    "storage_bucket": "vromo-96cd6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892247215002:android:79b0d0f1214def4aaa0823",
+        "android_client_info": {
+          "package_name": "com.vromo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892247215002-chgrk765p0grq7lv10febu38fkou7irh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9g0HSaKltsHw837YnNjRsDLn4_gvx-5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892247215002-chgrk765p0grq7lv10febu38fkou7irh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "892247215002-63cei0jqrdtabdu3ipofjfmmlf945aag.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vromo.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
