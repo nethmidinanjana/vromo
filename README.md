@@ -1,2 +1,1 @@
 # vromo
-Vehicle renting application
