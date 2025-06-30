@@ -30,9 +30,9 @@ Vromo is a **full-stack vehicle rental platform** aimed at connecting users with
 ## 📸 Screenshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/f1340c34-a513-47a4-8f3c-99ff506f5547" height="300" />
-  <img src="https://github.com/user-attachments/assets/7dfae0db-daa7-4ab5-9550-e04e027960a4" height="300" />
-  <img src="https://github.com/user-attachments/assets/262c80ec-f8f2-43a6-8568-f9cdfb5f2c8e" height="300" />
+  <img src="https://github.com/user-attachments/assets/f1340c34-a513-47a4-8f3c-99ff506f5547" height="400" />
+  <img src="https://github.com/user-attachments/assets/7dfae0db-daa7-4ab5-9550-e04e027960a4" height="400" />
+  <img src="https://github.com/user-attachments/assets/262c80ec-f8f2-43a6-8568-f9cdfb5f2c8e" height="400" />
 </div>
 
 ---
